@@ -1,6 +1,6 @@
 # Interfaces de Usuario
 
-###Albert Carruido<br>
-###Juan Vargas<br>
-###Freddy Jaime<br>
-###Marco Vilera<br
+##Albert Carruido<br>
+##Juan Vargas<br>
+##Freddy Jaime<br>
+##Marco Vilera
